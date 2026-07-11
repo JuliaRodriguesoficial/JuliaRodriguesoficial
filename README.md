@@ -4,7 +4,7 @@
 ##
 
 💻 &nbsp;Tenho interesse em ser freelancer\
-🎓&nbsp;Estudando na faculdade presbiteriana mackenzie e cursando Python avançado\
+🎓&nbsp;Estudando ADS na faculdade presbiteriana Mackenzie e cursando Python avançado pelo SENAI\
 🌱 &nbsp;No momento estou aprendendo mais sobre HTML e focando em projetos pessoais\
 ✍️ &nbsp;No meu tempo livre, gosto de escrever, desenhar e fotografar\
 👀 &nbsp;Você pode checar meu [Instagram](https://www.instagram.com/juliarodrigu3s007?igsh=YjFjcDJld2p6ODg2) ou [Linkedin](https://www.linkedin.com/in/julia-rodrigues-de-oliveira-600a492b8) para saber mais detalhes sobre mim.\
