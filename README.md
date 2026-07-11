@@ -1,18 +1,14 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá! como vai?
-![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
+### <img alt="handwavegif" src="https://i.redd.it/8jqj1311bdeb1.gif" width='100' align="left"/> Olá! como vai?
 
-💡 &nbsp; I'm a software developer and researcher by profession, and a MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at asinghdhadwal@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/abhishek-singh-dhadwal/) for more details about work experience.
+### 👩‍💻 &nbsp;Sobre mim:
+
+
+💻 &nbsp;Tenho interesse em ser freelancer\
+🎓&nbsp;Estudando na faculdade presbiteriana mackenzie e cursando Python avançado\
+🌱 &nbsp;No momento estou aprendendo mais sobre HTML e focando em projetos pessoais\
+✍️ &nbsp;No meu tempo livre, gosto de escrever, desenhar e fotografar\
+👀 &nbsp;Você pode checar meu [Instagram](https://www.instagram.com/juliarodrigu3s007?igsh=YjFjcDJld2p6ODg2) ou [Linkedin](https://www.linkedin.com/in/julia-rodrigues-de-oliveira-600a492b8) para saber mais detalhes sobre mim.\
+📱 &nbsp;Aqui esta meu [Gmail](juliarodriguesoficial07@gmail.com) caso queira entrar em contato\
 
 
 ### 🛠 &nbsp;Tech Stack
